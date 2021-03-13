@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn AWS CI/CD intergrations
         </a>
       </header>
     </div>
